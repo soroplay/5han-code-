@@ -1,0 +1,81 @@
+﻿body {
+	font-family: メイリオ;
+	background-color: #55b855;
+	margin: 0px;
+}
+#headerdiv {
+	padding: 20px;
+}
+#maincontentdiv {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	width: 40%;
+	text-align: center;
+	min-width:400px;
+}
+#remaindiv {
+	background-color: #FFFFFF;
+	color: #55B855;
+	margin-top: 15px;
+	width: 100%;
+	border-radius: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 24px;
+}
+#remainspan {
+	font-size: 50px;
+}
+#logp {
+	text-align: left;
+	color: #FFFFFF;
+	font-size: large;
+}
+.logdiv {
+	text-align: left;
+	color: #4d4d4d;
+	margin-bottom: 10px;
+}
+.logdetaildiv {
+	overflow: hidden;
+	background-color: #9cd69c;
+	border-radius: 10px;
+	width: 100%;
+	padding: 15px;
+	box-sizing: border-box;
+}
+.delbtndiv {
+	float: left;
+}
+.costnamespan {
+	float: left;
+	margin-left: 10px;
+	line-height: 33px;
+}
+.costvaluespan {
+	float: right;
+	line-height: 33px;
+}
+.addbtndiv {
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+}
+.inputtable {
+	margin-top: 20px;
+}
+td {
+	color: #FFFFFF;
+}
+td input {
+	width: 100%;
+	height: 100%;
+}
+#inputdiv {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	width: 20%;
+	text-align: center;
+}
